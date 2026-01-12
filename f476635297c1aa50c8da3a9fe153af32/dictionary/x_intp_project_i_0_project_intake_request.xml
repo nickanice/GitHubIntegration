@@ -5,6 +5,7 @@
         <element label="Dynamic Attributes" max_length="5000" name="dynamic_attributes" type="dynamic_attribute_store"/>
         <element display="true" label="Process Name" max_length="40" name="process_name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Is Resolved" max_length="40" name="is_resolved" type="boolean"/>
         <element label="Java Script" max_length="4000" name="java_script" type="script"/>
         <element label="Project Requestor" max_length="32" name="project_requestor" reference="sys_user" type="reference"/>
         <element label="State" max_length="40" name="state" type="string"/>
