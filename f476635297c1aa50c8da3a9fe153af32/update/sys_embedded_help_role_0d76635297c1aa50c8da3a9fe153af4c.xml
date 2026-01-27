@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_intp_project_i_0.admin" name="x_intp_project_i_0.admin">8d76635297c1aa50c8da3a9fe153af48</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>rakshit</sys_created_by>
+        <sys_created_on>2025-04-24 06:25:58</sys_created_on>
+        <sys_id>0d76635297c1aa50c8da3a9fe153af4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8d76635297c1aa50c8da3a9fe153af48</sys_name>
+        <sys_package display_value="Project intake Request" source="x_intp_project_i_0">f476635297c1aa50c8da3a9fe153af32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project intake Request">f476635297c1aa50c8da3a9fe153af32</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0d76635297c1aa50c8da3a9fe153af4c</sys_update_name>
+        <sys_updated_by>rakshit</sys_updated_by>
+        <sys_updated_on>2025-04-24 06:25:58</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

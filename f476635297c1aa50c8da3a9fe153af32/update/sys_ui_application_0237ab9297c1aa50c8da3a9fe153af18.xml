@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Project Intake Request</name>
+        <order/>
+        <roles>x_intp_project_i_0.project_intake_request_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>rakshit</sys_created_by>
+        <sys_created_on>2025-04-24 06:29:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0237ab9297c1aa50c8da3a9fe153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Intake Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Project intake Request" source="x_intp_project_i_0">f476635297c1aa50c8da3a9fe153af32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project intake Request">f476635297c1aa50c8da3a9fe153af32</sys_scope>
+        <sys_update_name>sys_ui_application_0237ab9297c1aa50c8da3a9fe153af18</sys_update_name>
+        <sys_updated_by>rakshit</sys_updated_by>
+        <sys_updated_on>2025-04-24 06:29:18</sys_updated_on>
+    </sys_ui_application>
+</record_update>
