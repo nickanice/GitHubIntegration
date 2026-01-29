@@ -17,7 +17,7 @@
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>This is PIR form message.</p>]]></message>
+        <message><![CDATA[<p>This is PIR form messages.</p>]]></message>
         <name>Test BR</name>
         <order>100</order>
         <priority>100</priority>
@@ -38,7 +38,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dd08b05f1bde36105f6eedf3604bcb0d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Test BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="Project intake Request" source="x_intp_project_i_0">f476635297c1aa50c8da3a9fe153af32</sys_package>
@@ -46,7 +46,7 @@
         <sys_scope display_value="Project intake Request">f476635297c1aa50c8da3a9fe153af32</sys_scope>
         <sys_update_name>sys_script_dd08b05f1bde36105f6eedf3604bcb0d</sys_update_name>
         <sys_updated_by>nikhil</sys_updated_by>
-        <sys_updated_on>2026-01-27 07:05:16</sys_updated_on>
+        <sys_updated_on>2026-01-27 07:32:53</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
